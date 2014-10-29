@@ -147,8 +147,7 @@ And run ruby-install again:
 
 ### Rubinius
 
-[Rubinius] 1.x and 2.0.x is not supported due to multiple bugs.
-Instead, please use Rubinius >= 2.1.x.
+[Rubinius] 1.3.3+ and 2.1.0+ are supported.
 
 ## Alternatives
 
